@@ -1,5 +1,6 @@
 ---
 title: Publications
+featured: true   # Feature this publication?
 
 # View.
 #   1 = List
