@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: An example title within the content folder
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
