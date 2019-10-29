@@ -1,3 +1,4 @@
+featured: true   # Feature this publication?
 ---
 title: Benefit-Cost Analysis for Bay County Local Hazard Mitigation Strategy. 
 summary: BCA Analysis using FEMA model for hazard mitigation including lift stations and mapping of evacuation routes.
@@ -7,7 +8,6 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-featured: true   # Feature this publication?
 
 # Optional header image (relative to `static/img/` folder).
 header:
