@@ -50,5 +50,4 @@ fields:
   description: You can filter by featured content on your homepage
 
 
-This is a test of content for my blog
 ---
