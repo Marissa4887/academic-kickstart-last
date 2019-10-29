@@ -74,26 +74,21 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-[content]
-  type = project
-  default = 0
-  tag = *
-  title = a project 
-  summary = this is a summary
-
-[content]
-  type = project2
-  default = 0
-  tag = *
-  title = a project2 
-  summary = this is a summary2
-
-[content]
-  type = project3
-  default = 0
-  tag = *
-  title = a project3 
-  summary = this is a summary3
+ - type = project
+   default = 0
+   tag = *
+   title = a project 
+   summary = this is a summary
+-  type = project2
+   default = 0
+   tag = *
+   title = a project2 
+   summary = this is a summary2
+ - type = project3
+   default = 0
+   tag = *
+   title = a project3 
+   summary = this is a summary3
 
 
 +++
