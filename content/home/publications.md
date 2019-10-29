@@ -7,7 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+# removed RECENT from below in publications. add to have back
+title = "Publications" 
 subtitle = ""
 
 [content]
